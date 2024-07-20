@@ -1,0 +1,32 @@
+/* style.css */
+
+body
+{
+    background-color: #fbc5c5;
+    font-size: 24px;
+}
+
+#subtitle, #heading
+{
+    text-align: center;
+    font-weight: bold;
+    color: #643843;
+    font-family: "Times New Roman", san-serif;
+}
+
+#heading
+{
+    font-size: 48px;
+}
+
+#subtitle
+{
+    font-size: 36px;
+}
+
+h2, h3, h4
+{
+    color: #ffffff;
+    background-color: #f47c7c;
+}
+
